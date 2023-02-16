@@ -1,0 +1,32 @@
+body{
+    background-color:cadetblue;
+}
+
+.inputBox{
+    border-radius:15%;
+    border:2px solid;
+}
+.button{
+    border-radius:25%;
+    background-color:lightgray;
+    width:5rem;
+    height:3rem;
+    font-size:1rem;
+    color:black;
+    
+}
+#content{
+    text-align: center;
+}
+.submitButton{
+    border-radius:25%;
+    background-color:lightgray;
+    color:black;
+}
+li{
+    margin:0;
+    list-style-type:none;
+}
+#posts{
+    margin:0;
+}
